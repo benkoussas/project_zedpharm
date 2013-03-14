@@ -1,0 +1,6 @@
+Description globale du projet:
+Création d'un site de commandes en ligne pour le Groupe ZedPharm, ou chaque client(Pharmacien) disposera d'un compte à son nom avec un login et un mot de passe qui lui sera communiqué via les opératrices du groupe, le client pourra changer le mot de passe via une demande de changement de mot de passe.
+En se connectant, le client en cliquant sur l’anglet commande pourra faire une commande en sélectionnant les produits et si ils sont indisponibles, des produits du même type serons affichés dans une autre liste (produits génériques), pour chaque produit sélectionné le client devra  entrer la quantité.
+La commande est envoyée en cliquant sur le bouton commander. 
+Le client peut aussi voir son historique personnel des commandes, les factures non-payées et les informations de sa pharmacie. 
+Chaque opératrice aura un compte à son nom, ou seront listés les commandes arrivés de chacun de ses clients, elle appellera ensuite le client pour confirmer  la commande et la livrer au client. Une opératrice aura une liste bien définie de clients. 

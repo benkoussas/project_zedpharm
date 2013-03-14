@@ -3,4 +3,4 @@ Création d'un site de commandes en ligne pour le Groupe ZedPharm, ou chaque cli
 En se connectant, le client en cliquant sur l’anglet commande pourra faire une commande en sélectionnant les produits et si ils sont indisponibles, des produits du même type serons affichés dans une autre liste (produits génériques), pour chaque produit sélectionné le client devra  entrer la quantité.
 La commande est envoyée en cliquant sur le bouton commander. 
 Le client peut aussi voir son historique personnel des commandes, les factures non-payées et les informations de sa pharmacie. 
-Chaque opératrice aura un compte à son nom, ou seront listés les commandes arrivés de chacun de ses clients, elle appellera ensuite le client pour confirmer  la commande et la livrer au client. Une opératrice aura une liste bien définie de clients. 
+Chaque opératrice aura un compte à son nom, ou seront listés les commandes arrivés de chacun de ses clients, elle appellera ensuite le client pour confirmer  la commande et la livrer au client.  Une opératrice aura une liste bien définie de clients. 
